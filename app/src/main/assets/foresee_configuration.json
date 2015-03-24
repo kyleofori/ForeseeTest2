@@ -1,0 +1,23 @@
+{
+    "clientId": "",
+    "measures": [
+        {
+            "surveyId": "android_app",
+            "significantEventThresholds": {
+                "guest_pay_complete": 1,
+                "auth_pay_complete": 1,
+                "balance_breakdown_viewed": 1,
+                "yearly_compare": 2,
+                "outage_map_view": 3,
+                "outage_reported": 1,
+                "outage_status_details": 5
+            }
+        }
+    ],
+    "sessionReplayEnabled": true,
+    "repeatDaysAfterDecline": 15,
+    "repeatDaysAfterComplete": 15,
+    "repeatDaysAfterAccept": 15,
+    "customLogoName": "ic_foresee_logo.png",
+    "notificationType": "IMMEDIATE"
+}
