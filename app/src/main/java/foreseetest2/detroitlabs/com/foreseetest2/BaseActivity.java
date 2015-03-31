@@ -6,7 +6,7 @@ import android.view.ViewGroup;
 
 import com.foresee.sdk.ForeSee;
 
-public class BaseActivity extends ActionBarActivity {
+public abstract class BaseActivity extends ActionBarActivity {
 
     @Override
     public void onStart() {
