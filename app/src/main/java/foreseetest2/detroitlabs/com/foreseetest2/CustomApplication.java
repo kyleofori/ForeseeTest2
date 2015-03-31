@@ -11,5 +11,9 @@ public class CustomApplication extends Application {
         super.onCreate();
         ForeSee.setMaskingDebugEnabled(true);
         ForeSee.start(this);
+        ForeSee.setSkipPoolingCheck(true);
+        ForeSee.setDebugLogEnabled(true);
+        ForeSee.resetState();
     }
+
 }
