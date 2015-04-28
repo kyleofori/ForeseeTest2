@@ -10,6 +10,60 @@
         android:gravity="right"
         android:text="Some text" />
 
+    <foreseetest2.detroitlabs.com.foreseetest2.MaskableEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="Some text" />
+
+    <foreseetest2.detroitlabs.com.foreseetest2.MaskableEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="Some text" />
+
+    <foreseetest2.detroitlabs.com.foreseetest2.MaskableEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="Some text" />
+
+    <foreseetest2.detroitlabs.com.foreseetest2.MaskableEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="Some text" />
+
+    <foreseetest2.detroitlabs.com.foreseetest2.MaskableEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="Some text" />
+
+    <foreseetest2.detroitlabs.com.foreseetest2.MaskableEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="Some text" />
+
+    <foreseetest2.detroitlabs.com.foreseetest2.MaskableEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="Some text" />
+
+    <foreseetest2.detroitlabs.com.foreseetest2.MaskableEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="Some text" />
+
+    <foreseetest2.detroitlabs.com.foreseetest2.MaskableEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="Some text" />
+
     <foreseetest2.detroitlabs.com.foreseetest2.MaskableTextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
